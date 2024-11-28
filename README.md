@@ -53,7 +53,7 @@ The RAG-LLM App is a sophisticated Python application that leverages Retrieval-A
 We welcome contributions! Please fork the repository and submit a pull request with your changes. Ensure your code adheres to the project's coding standards and includes appropriate tests.
 
 ## License
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is license free so feel free to use it as needed.
 
 ## Contact
 For any questions or suggestions, please contact rahul.rkumar23@gmail.com.
