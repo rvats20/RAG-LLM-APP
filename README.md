@@ -56,5 +56,5 @@ We welcome contributions! Please fork the repository and submit a pull request w
 This project is license free so feel free to use it as needed.
 
 ## Contact
-For any questions or suggestions, please contact rahul.rkumar23@gmail.com.
+For any questions or suggestions, please contact rahul.rkumar23@gmail.com
 
