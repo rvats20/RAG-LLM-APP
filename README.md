@@ -4,7 +4,7 @@
 The RAG-LLM App is a sophisticated Python application that leverages Retrieval-Augmented Generation (RAG) techniques with Large Language Models (LLMs) to provide enhanced and contextually relevant responses. This app integrates retrieval mechanisms to fetch relevant documents and uses LLMs to generate coherent and informative outputs based on the retrieved information.
 
 ## Features
-- **Document Retrieval**: Efficiently retrieves relevant documents from a large corpus based on user queries.
+- **Newsletter Reading**: Efficiently retrieves relevant information from a large corpus of emails.
 - **Language Generation**: Utilizes state-of-the-art LLMs to generate detailed and contextually appropriate responses.
 - **Hybrid Approach**: Combines retrieval and generation for improved accuracy and relevance.
 - **Customizable Pipelines**: Easily customizable retrieval and generation pipelines to suit various use cases.
