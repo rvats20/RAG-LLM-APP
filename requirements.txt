@@ -1,0 +1,8 @@
+Podcast_Summarizer_AI_Agent
+composio_langchain
+composio_llamaindex
+crewai
+dotenv
+langchain_openai
+llama_index
+streamlit
